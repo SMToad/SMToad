@@ -11,6 +11,7 @@ I want to dive deeper into software development and learn more about web develop
 - WPF
 - Python
 - OpenCV
+- MS SQL
 - ASP.NET MVC
 - HTML5
 - CSS3
