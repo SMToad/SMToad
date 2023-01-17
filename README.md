@@ -1,18 +1,21 @@
-# 🐸 Hello and welcome, my name is Sofiya (Soph for short) 
-Currently I'm intersted in developing ASP.NET web apps and learning more about web development
+# Good morning/evening/afternoon, my name is Sofiia, and here I store projects that I create in my free time, whenever I have it 
+Currently I work in a software-development field and contribute to developing cross-platfrom .NET applications. Some of my tasks require writing programs using Python.
+I want to dive deeper into software development and learn more about web development
 - I want to get better at utilizing my current stack of technologies
 - Learn new frameworks and tools to make better apps
 - Continue to improve the way I write code
-- Start working on real and interesting projects
+- Get to work on meaningful and interesting projects, that allow me to fully utilize my potential
 # 🖥️ My current stack 
 - C#
-- T-SQL
+- Avalonia Framework
+- WPF
+- Python
+- OpenCV
 - ASP.NET MVC
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap 5
 - JQuery
-- Entity
 # ✍️ My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMToad)](https://github.com/anuraghazra/github-readme-stats)
