@@ -12,10 +12,12 @@ I want to dive deeper into software development and learn more about web develop
 - Python
 - OpenCV
 - MS SQL
+- PostgreSQL
 - ASP.NET MVC
 - HTML5
 - CSS3
 - JavaScript
+- React
 - Bootstrap 5
 - JQuery
 # ✍️ My stats
