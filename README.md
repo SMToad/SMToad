@@ -1,4 +1,4 @@
-# ✨ Good morning/evening/afternoon, my name is Sofiia, and here I store projects that I create in my free time, whenever I have it 
+# ✨ Good morning/evening/afternoon. My name is Sofa, and here I store projects that I create in my free time, whenever I have it 
 Currently I work in a software-development field and contribute to developing cross-platfrom .NET applications. Some of my tasks require writing programs using Python.
 I want to dive deeper into software development and learn more about web development
 - I want to get better at utilizing my current stack of technologies
