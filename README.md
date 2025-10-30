@@ -1,4 +1,4 @@
-# ✨ Howdy! My name is Sofa, and here I store projects that I create in my free time, whenever I have it 
+# ✨ Hello! My name is Sofa, and here I store projects that I create in my free time, whenever I have it 
 Currently I work in a software-development field and develop .NET applications and WebAPIs.
 
 I want to dive deeper into software development and learn more about web development:
